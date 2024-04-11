@@ -1,0 +1,2 @@
+# Coffe_Sales_Analysis_Dashboard
+ This repository hosts an interactive dashboard designed for analyzing coffee sales data. It features a comprehensive set of tools and visualizations that allow users to explore trends, patterns, and insights in coffee sales across various regions and time periods. Whether you're looking to optimize sales strategies, understand customer preferences, or assess market performance, this dashboard provides valuable data-driven insights to inform decision-making and enhance business outcomes.
